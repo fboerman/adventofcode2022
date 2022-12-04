@@ -1,5 +1,3 @@
-using OffsetArrays
-
 function partA()
     println("Part A")
     stream = open("day1_test.txt")
