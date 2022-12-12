@@ -29,6 +29,6 @@ function partB()
     S
 end
 
-println("Advent of Code 2022 day 3")
+println("Advent of Code 2022 day 4")
 println(partA())
 println(partB())
